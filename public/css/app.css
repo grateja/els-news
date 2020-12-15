@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);@import url(https://fonts.googleapis.com/css?family=Orbitron);.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.no-gutter {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.no-gutter > [class*=col-] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.content {
+  position: relative;
+  background-image: url("/img/els-news-bg.jpg");
+  height: 100vh;
+  width: 100vw;
+  background-size: 103%;
+  background-position-x: 10%;
+  min-width: 1024px;
+  background-repeat: no-repeat;
+}
+
+.board-wrapper,
+.date-time-wrapper,
+.news-wrapper {
+  position: absolute;
+}
+
+.date-time-wrapper {
+  right: 0px;
+  text-shadow: 5px 5px 10px white;
+}
+
+.board-video {
+  width: 100%;
+}
+
+.news-description,
+.news-title {
+  padding: 0px 10px;
+}
+

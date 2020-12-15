@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Michael Sheetz",
+        "title": "Watch Maxine Waters and Treasury Secretary Mnuchin argue at hearing: 'I will not be back here'",
+        "description": "Rep. Maxine Waters, chairwoman of the House Financial Services Committee, and Treasury Secretary Steven Mnuchin squabble over his schedule.",
+        "url": "https://www.cnbc.com/2019/04/10/watch-maxine-waters-and-treasury-secretary-mnuchin-argue-at-hearing.html",
+        "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/07/12/105326542-1531417210709rtx6azil.1910x1000.jpg",
+        "publishedAt": "2019-04-10T11:45:44+00:00",
+        "content": "Rep. Maxine Waters, chairwoman of the House Financial Services Committee, and Treasury Secretary Steven Mnuchin squabbled at a hearing, with Mnuchin going so far as to threaten to not testify before the committee again if he was not allowed to leave.\r\ndiv &gt… [+995 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Oren Liebermann and Andrew Carey, CNN",
+        "title": "Netanyahu on cusp of victory after tight Israeli election results",
+        "description": "Benjamin Netanyahu appeared to be on the cusp of securing a record fifth term as Israeli Prime Minister Wednesday after a dramatic finish to a closely fought election race.",
+        "url": "https://www.cnn.com/2019/04/10/middleeast/israel-election-results-benjamin-netanyahu-benny-gantz-intl/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190408165445-01-netanyahu-gantz-split-super-tease.jpg",
+        "publishedAt": "2019-04-10T10:05:00+00:00",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Associated Press",
+        "title": "Charges dropped against man accused of abandoning pet fish",
+        "description": "Charges have been dropped against a North Carolina man accused of leaving his pet fish behind without food when he was evicted.",
+        "url": "https://www.foxnews.com/us/charges-dropped-against-man-accused-of-abandoning-pet-fish",
+        "urlToImage": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+        "publishedAt": "2019-04-10T09:17:18+00:00",
+        "content": "WILMINGTON, N.C. Charges have been dropped against a North Carolina man accused of leaving his pet fish behind without food when he was evicted.\r\nNew Hanover County District Attorney Ben David told news outlets Tuesday that 53-year-old Michael Hinson is no lo… [+532 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Lukas Mikelionis",
+        "title": "Crenshaw calls out Omar for describing 9/11 attacks as 'some people did something'",
+        "description": "Minnesota Democrat Ilhan Omar is facing backlash after her speech at a Muslim rights group’s event in which she described the September 11, 2001 terror attacks as “some people did something.”",
+        "url": "https://www.foxnews.com/politics/ilhan-omar-under-fire-after-describing-9-11-terror-attacks-as-some-people-did-something",
+        "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2019/03/24/694940094001_6017437269001_6017441548001-vs.jpg",
+        "publishedAt": "2019-04-10T09:13:51+00:00",
+        "content": "Minnesota Democrat Ilhan Omar is facing backlash after her speech at a Muslim rights group’s event in which she described the September 11, 2001 terror attacks as “some people did something.”\r\nOmar spoke at a Council on American-Islamic Relations (CAIR) fundr… [+2903 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Fox News",
+        "title": "Barr forms 'team' to investigate the FBI's Russia investigators; Sanders to release tax records",
+        "description": "",
+        "url": "https://www.foxnews.com/us/barr-forms-team-to-investigate-the-fbis-russia-investigators-sanders-to-release-tax-records",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/04/Barr041019.jpg",
+        "publishedAt": "2019-04-10T08:21:30+00:00",
+        "content": "Welcome to Fox News First. Not signed up yet? Click here.Developing now, Wednesday, April 10, 2019\r\nBARR INVESTIGATING THE INVESTIGATORS: Attorney General William Barr has assembled a \"team\" to investigate the origins of the FBI's counterintelligence investig… [+7066 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "",
+        "title": "Want border security? Drop the wall and welcome more immigrants",
+        "description": "Last month, the House failed to override President Trump's declaration of a national emergency at the border. This vote is just one flash point in an ongoing debate about immigration policy, and rightly so.",
+        "url": "https://www.washingtonexaminer.com/opinion/op-eds/want-border-security-drop-the-wall-and-welcome-more-immigrants",
+        "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/512b429/2147483647/strip/true/crop/5028x2640+0+131/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fe9%2F18%2F6abc34914c528477828fcbef6afe%2Fap-19086074282956.jpg",
+        "publishedAt": "2019-04-10T04:00:00+00:00",
+        "content": "Last month, the House failed to override President Trump's declaration of a national emergency at the border. This vote is just one flash point in an ongoing debate about immigration policy, and rightly so. \r\nA large and growing body of research shows that bu… [+3767 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "24 Charged in $1.2 Billion Medicare Scheme, U.S. Says",
+        "description": "The scheme, which involved the prescribing of unnecessary back, shoulder, wrist and knee braces, spanned multiple continents, according to the authorities.",
+        "url": "https://www.nytimes.com/2019/04/09/us/billion-dollar-medicare-scam.html",
+        "urlToImage": "https://static01.nyt.com/images/2019/04/09/us/09xp-medicare/294a351df2974beaa805c7e1a5591b0b-facebookJumbo.jpg",
+        "publishedAt": "2019-04-09T23:48:45+00:00",
+        "content": "In Florida, Willie McNeal IV, the owner and chief executive of two telemedicine companies, hired health care providers and then paid them to prescribe braces for Medicare beneficiaries regardless of whether it was medically necessary, according to an indictme… [+1594 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Drew Armstrong, Riley Griffin",
+        "title": "Prosecutors Say Drugmaker Indivior Lied About Popular Opioid Treatment",
+        "description": "Indivior Plc plummeted to an all-time low after U.S. prosecutors said the U.K. drugmaker deceived doctors about its addiction treatment’s dangers, fueling a deadly epidemic of opioid abuse.",
+        "url": "https://www.bloomberg.com/news/articles/2019-04-09/prosecutors-charge-indivior-with-lying-about-opioid-treatment",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iB0fpwATHaA0/v1/1200x800.jpg",
+        "publishedAt": "2019-04-09T22:00:00+00:00",
+        "content": "A person holds a prescription for Suboxone at her home in Lewisville, N.C., on March 11.    \r\nWant the lowdown on European markets? In your inbox before the open, every day. \r\nSign up here.\r\nIndivior Plc plummeted to an all-time low after U.S. prosecutors sai… [+3592 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Kelly Yamanouchi",
+        "title": "Delta CEO hopes 737 Max issue ‘doesn’t set us back as an industry’",
+        "description": "Delta Air Lines chief executive officer Ed Bastian said while his airline doesn't fly the Boeing 737 Max, which has been grounded in the wake of two crashes, he hopes it \"doesn't set us back as an industry.\"",
+        "url": "https://www.ajc.com/blog/airport/delta-ceo-hopes-737-max-issue-doesn-set-back-industry/agtyI2feD0z6LKqlavSNnJ/",
+        "urlToImage": "https://www.ajc.com/rf/image_large/Pub/p10/CmgSharedContent/2019/04/06/Images/GettyImages-1135177343.jpg",
+        "publishedAt": "2019-04-09T21:18:46+00:00",
+        "content": "Delta Air Lines CEO Ed Bastian said discussions surrounding probes into crashes of two Boeing 737 Max planes will “open up a lot of questions.”\r\nWhile Delta does not fly the 737 Max, “I hope it doesn’t set us back as an industry,” Bastian said during remarks … [+2190 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "https://www.washingtonexaminer.com/author/eddie-scarry",
+        "title": "Trump inexplicably cedes the immigration hardline to Obama",
+        "description": "Who knew that former President Barack Obama was more effective on deterring illegal immigration than President Trump, who claimed to care more about the issue than anyone else?",
+        "url": "https://www.washingtonexaminer.com/opinion/trump-inexplicably-cedes-the-immigration-hardline-to-obama",
+        "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/7a3decf/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb9%2F3b%2F75b0a5a9439f95d88f48d08611fa%2Ftrumpobamaopp.jpg",
+        "publishedAt": "2019-04-09T18:00:00+00:00",
+        "content": "Who knew that former President Barack Obama was more effective on deterring illegal immigration than President Trump, who claimed to care more about the issue than anyone else? \r\nTrump said precisely that during a brief exchange with reporters Tuesday at the … [+2205 chars]"
+      }
+    ]
+  }
